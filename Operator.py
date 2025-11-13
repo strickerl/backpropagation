@@ -16,8 +16,6 @@ import math
 import string
 
 
-
-
 class Operator(ABC):
 
     @abstractmethod
